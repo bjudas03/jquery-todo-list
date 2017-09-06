@@ -1,0 +1,41 @@
+body {
+	display:inline-block;
+	height: 100%;
+	width: 100%;
+}
+
+header{
+	width:100px;
+	margin:0 auto;
+	background-color:red;
+	text-align: center;
+
+}
+
+#container {
+
+	width: 80%;
+	margin: 0 auto;
+}
+
+#submission {
+	height:50%;
+	width:50%;
+	position:relative;
+	display:block;
+	float:left;
+	background-color: yellow;
+}
+
+#inner-right {
+	position:relative;
+	display:block;
+	height:50%;
+	width: 50%;
+	background-color: gray;
+	float:right;
+
+}
+#input {
+	margin: 20px auto;
+}
